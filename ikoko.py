@@ -21,11 +21,11 @@ HACKER_FACE = f"""
             \\  \\_/_/  /
              '._   _.'
                 ' '
-{CYAN}      [ WIFI VOUCHER HUNTER V2 ]
+{CYAN}      [ G.I koko ]
 {GREEN}    ===============================
 {RESET}"""
 
-url = "http://10.0.0.1/login" 
+url = "http://192.168.100.1/login" 
 
 def brute_force():
     print(HACKER_FACE)
